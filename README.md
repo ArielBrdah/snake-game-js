@@ -1,6 +1,4 @@
-Voici un modèle de README en anglais pour un jeu du serpent (Snake Game) :
 
----
 
 # Snake Game
 
@@ -50,6 +48,4 @@ Feel free to contribute by submitting a pull request or reporting issues.
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-Let me know if you need any modifications!
