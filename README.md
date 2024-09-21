@@ -27,15 +27,14 @@ This is a simple **Snake Game** implemented in [your language or technology used
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/snake-game.git
+   git clone https://github.com/ArielBrdah/snake-game-js.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd snake-game
+   cd snake-game-js
    ```
 3. Open the game:
-   - If it’s a web-based game, open `index.html` in your browser.
-   - For other languages, run the main script (e.g., `python snake.py`).
+   Open your browser, then open `index.html` in your browser.
 
 ## Gameplay Preview
 ![Snake Game Preview](path_to_screenshot_or_gif)
