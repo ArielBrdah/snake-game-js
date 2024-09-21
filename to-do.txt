@@ -1,0 +1,4 @@
+1. Arranger le style
+2. faire un classement:
+    nom:
+    score:
